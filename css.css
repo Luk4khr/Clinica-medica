@@ -159,7 +159,7 @@ footer p {
         font-size: 68%;
     }
     .cabecalho p {
-        margin-left: 18%;
+        text-align: center;
         margin-top: 5%;
     }
     .cabecalho img {
