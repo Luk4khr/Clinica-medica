@@ -196,3 +196,8 @@ footer p {
         font-size: 69%;
     }
 }
+@media only screen and (max-width: 721px) {
+    .cabecalho p {
+        margin-right: 23%;
+    }
+}
