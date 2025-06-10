@@ -145,7 +145,7 @@ footer p {
 .para5 {
     margin-top: 1%;
 }
-@media screen and (max-width: 667px) {
+@media screen and (max-width: 720px) {
     .banner h1 {
         font-size: 135%;
         margin-top: 10%;

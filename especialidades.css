@@ -100,7 +100,7 @@ footer p {
 .para5 {
     margin-top: 1%;
 }
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 720px) {
      .cabecalho a {
         font-size: 68%;
     }
