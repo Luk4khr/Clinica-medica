@@ -145,4 +145,54 @@ footer p {
 .para5 {
     margin-top: 1%;
 }
-@media only screen and (max-width: 480px)
+@media screen and (max-width: 667px) {
+    .banner h1 {
+        font-size: 135%;
+        margin-top: 10%;
+    }
+    .banner {
+        background-image: url('assets/recepcao.png');
+        background-size: ;
+        background-position: top;
+    }
+    .cabecalho a {
+        font-size: 68%;
+    }
+    .cabecalho p {
+        margin-left: 18%;
+        margin-top: 5%;
+    }
+    .cabecalho img {
+        width: 20%;
+        margin-left: 36%;
+    }
+    .sec {
+        margin-bottom: 7%;
+        margin-top: 14%;
+    }
+    .artic {
+        margin-bottom: 18%;
+    }
+    .artic img {
+        margin-top: 50%;
+    }
+    .cards figure {
+        width: 30%;
+        margin-top: 9%;
+    }
+    .cards figcaption {
+        font-size: 79%;
+    }
+    .phorarios p{
+        margin-bottom: 22%;
+    }
+    iframe {
+        margin-top: 6%;
+    }
+    footer img {
+        width: 20%;
+    }
+    footer p {
+        font-size: 69%;
+    }
+}

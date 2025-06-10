@@ -100,3 +100,50 @@ footer p {
 .para5 {
     margin-top: 1%;
 }
+@media only screen and (max-width: 667px) {
+     .cabecalho a {
+        font-size: 68%;
+    }
+    .cabecalho p {
+        margin-left: 18%;
+        margin-top: 5%;
+    }
+    .cabecalho img {
+        width: 20%;
+        margin-left: 36%;
+    }
+    .linktab a {
+        font-size: 69%;
+    }
+    h1 {
+        font-size: 120%;
+    }
+    p {
+        font-size: 79%;
+    }
+    h2 {
+        font-size: 110%;
+        margin-bottom: 4%;
+    }
+    td, th {
+        padding: 4%;
+    }
+    div {
+        display: block;
+    }
+    figure {
+        width: 100%;
+    }
+    figure img {
+        width: 100%;
+    }
+    table {
+        margin-bottom: 18%;
+    }
+    footer figure {
+        width: 18%;
+    }
+    footer p{
+        font-size: 69%;
+    }
+}
